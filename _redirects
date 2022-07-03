@@ -1,0 +1,9 @@
+# Redirects from what the browser requests to what we serve
+
+# Nothing shows here, just redirct to main.
+/home                /
+
+# More samples
+# /blog/my-post.php  /blog/my-post
+# /news              /blog
+# /search            https://www.google.com
